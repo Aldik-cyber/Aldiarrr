@@ -1,0 +1,15 @@
+
+  
+  .animated-flower {
+    animation: zoomIn 1s ease-in-out forwards;
+  }
+
+  .glow-text {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .glow-text:hover {
+    color: #101010; /* Қалаған түсіңе ауыстырыла алады */
+    text-shadow: 0 0 10px #1d1d1d, 0 0 20px #0d0d0d, 0 0 30px #121212;
+  }
+
